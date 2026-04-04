@@ -4,9 +4,9 @@
         {
             "domain_suffix": [
                 "pvp.net",
+                "riotcdn.net",
                 "si.riotgames.com",
-                "riotgames.com",
-                "riotcdn.net"
+                "riotgames.com"
             ]
         }
     ]
