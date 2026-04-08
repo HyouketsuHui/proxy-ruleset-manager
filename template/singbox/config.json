@@ -378,16 +378,16 @@
     "rule_set": [
       {
         "type": "remote",
-        "tag": "geosite-download",
+        "tag": "geosite-lor",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-lor.srs",
         "download_detour": "下载 (海外服务)"
       },
       {
         "type": "remote",
-        "tag": "geosite-zdycn",
+        "tag": "geosite-zdyproxy",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdycn.srs",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyproxy.srs",
         "download_detour": "下载 (海外服务)"
       },
       {
@@ -399,16 +399,16 @@
       },
       {
         "type": "remote",
-        "tag": "geosite-lor",
+        "tag": "geosite-zdycn",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-lor.srs",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdycn.srs",
         "download_detour": "下载 (海外服务)"
       },
       {
         "type": "remote",
-        "tag": "geosite-zdyproxy",
+        "tag": "geosite-download",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyproxy.srs",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
         "download_detour": "下载 (海外服务)"
       }
     ],
