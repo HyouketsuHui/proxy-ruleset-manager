@@ -1,5 +1,5 @@
 payload:
   - '+.riotgames.com'
-  - '+.riotcdn.net'
-  - '+.pvp.net'
   - '+.si.riotgames.com'
+  - '+.pvp.net'
+  - '+.riotcdn.net'
