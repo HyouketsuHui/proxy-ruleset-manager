@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
+                "home.nicoioamca.cn",
                 "ok.1653.us.ci",
+                "blog.laoda.de",
                 "yyv14.qwe132456.cc",
-                "emby.axuitomo.ggff.net",
-                "futtsu.teracloud.jp",
-                "od.catimage.work",
+                "ok.liuerao.dpdns.org",
                 "vip.dytt-cinema.com",
                 "vip.dytt-cine.com",
-                "home.nicoioamca.cn",
-                "okemby.wangjunqiang.dev",
-                "ok.liuerao.dpdns.org",
                 "okemby.wangjunqiang.indevs.in",
-                "vip.ffzy-online1.com",
-                "emby.enic65.eu.org",
+                "okemby.wangjunqiang.dev",
+                "emby.axuitomo.ggff.net",
+                "od.catimage.work",
+                "futtsu.teracloud.jp",
                 "ok.youko.cc.cd",
-                "blog.laoda.de"
+                "vip.ffzy-online1.com",
+                "emby.enic65.eu.org"
             ]
         },
         {
             "domain_suffix": [
-                "acgrip.com",
-                "gh-proxy.org",
-                "lzcdn31.com",
-                "huawei8.live",
-                "gh-proxy.com",
                 "ffzy-play2.com",
-                "youshu.me",
-                "booklink.me",
+                "appmiu.com",
+                "gh-proxy.org",
+                "7yzzz.lat",
                 "viva-la-vita.org",
-                "cdnlz22.com",
+                "lzcdn23.com",
+                "ffzy-plays.com",
+                "acgrip.com",
+                "huawei8.live",
                 "jianfacb.com",
                 "jiansouti.com",
-                "appmiu.com",
-                "ffzy-plays.com",
-                "amiao.co",
-                "7yzzz.lat",
+                "lzcdn31.com",
+                "youshu.me",
                 "kimivod.com",
-                "lzcdn23.com"
+                "gh-proxy.com",
+                "cdnlz22.com",
+                "amiao.co",
+                "booklink.me"
             ]
         }
     ]
