@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "home.nicoioamca.cn",
-                "ok.1653.us.ci",
-                "blog.laoda.de",
-                "yyv14.qwe132456.cc",
                 "ok.liuerao.dpdns.org",
-                "vip.dytt-cinema.com",
-                "vip.dytt-cine.com",
-                "okemby.wangjunqiang.indevs.in",
-                "okemby.wangjunqiang.dev",
-                "emby.axuitomo.ggff.net",
-                "od.catimage.work",
-                "futtsu.teracloud.jp",
                 "ok.youko.cc.cd",
+                "home.nicoioamca.cn",
+                "vip.dytt-cinema.com",
+                "emby.enic65.eu.org",
+                "futtsu.teracloud.jp",
                 "vip.ffzy-online1.com",
-                "emby.enic65.eu.org"
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.indevs.in",
+                "blog.laoda.de",
+                "vip.dytt-cine.com",
+                "emby.axuitomo.ggff.net",
+                "okemby.wangjunqiang.dev",
+                "od.catimage.work",
+                "yyv14.qwe132456.cc"
             ]
         },
         {
             "domain_suffix": [
-                "ffzy-play2.com",
-                "appmiu.com",
-                "gh-proxy.org",
-                "7yzzz.lat",
-                "viva-la-vita.org",
-                "lzcdn23.com",
-                "ffzy-plays.com",
-                "acgrip.com",
-                "huawei8.live",
-                "jianfacb.com",
-                "jiansouti.com",
-                "lzcdn31.com",
-                "youshu.me",
-                "kimivod.com",
-                "gh-proxy.com",
                 "cdnlz22.com",
+                "huawei8.live",
+                "acgrip.com",
+                "kimivod.com",
+                "jianfacb.com",
+                "gh-proxy.org",
+                "ffzy-play2.com",
+                "viva-la-vita.org",
+                "booklink.me",
+                "7yzzz.lat",
+                "jiansouti.com",
+                "gh-proxy.com",
                 "amiao.co",
-                "booklink.me"
+                "appmiu.com",
+                "youshu.me",
+                "ffzy-plays.com",
+                "lzcdn31.com",
+                "lzcdn23.com"
             ]
         }
     ]
