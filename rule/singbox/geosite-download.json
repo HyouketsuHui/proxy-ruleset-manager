@@ -1,4 +1,12 @@
 {
     "version": 1,
-    "rules": []
+    "rules": [
+        {
+            "domain_suffix": [
+                "megadl.boats",
+                "boomio-cdn.com",
+                "megaupdownup.org"
+            ]
+        }
+    ]
 }
