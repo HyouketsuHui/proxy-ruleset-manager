@@ -40,31 +40,10 @@
     ],
     "rule_set":[
       {
-        "tag":"geosite-download",
-        "type":"remote",
-        "format":"binary",
-        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
-        "download_detour":"下载 (海外服务)"
-      },
-      {
-        "tag":"geosite-ad",
-        "type":"remote",
-        "format":"binary",
-        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-ad.srs",
-        "download_detour":"下载 (海外服务)"
-      },
-      {
         "tag":"geosite-lor",
         "type":"remote",
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-lor.srs",
-        "download_detour":"下载 (海外服务)"
-      },
-      {
-        "tag":"geosite-zdycn",
-        "type":"remote",
-        "format":"binary",
-        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdycn.srs",
         "download_detour":"下载 (海外服务)"
       },
       {
@@ -79,6 +58,27 @@
         "type":"remote",
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyproxy.srs",
+        "download_detour":"下载 (海外服务)"
+      },
+      {
+        "tag":"geosite-ad",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-ad.srs",
+        "download_detour":"下载 (海外服务)"
+      },
+      {
+        "tag":"geosite-zdycn",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdycn.srs",
+        "download_detour":"下载 (海外服务)"
+      },
+      {
+        "tag":"geosite-download",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
         "download_detour":"下载 (海外服务)"
       }
     ],
