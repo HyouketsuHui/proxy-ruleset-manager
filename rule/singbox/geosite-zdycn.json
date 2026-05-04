@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "home.nicoioamca.cn",
                 "ok.liuerao.dpdns.org",
-                "yyv14.qwe132456.cc",
-                "vip.dytt-cinema.com",
-                "okemby.wangjunqiang.dev",
+                "od.catimage.work",
                 "vip.ffzy-online1.com",
+                "home.nicoioamca.cn",
+                "okemby.wangjunqiang.dev",
+                "ok.youko.cc.cd",
                 "okemby.wangjunqiang.indevs.in",
                 "vip.dytt-cine.com",
+                "vip.dytt-cinema.com",
+                "yyv14.qwe132456.cc",
                 "emby.enic65.eu.org",
-                "emby.axuitomo.ggff.net",
                 "ok.1653.us.ci",
                 "blog.laoda.de",
-                "ok.youko.cc.cd",
-                "od.catimage.work"
+                "emby.axuitomo.ggff.net"
             ]
         },
         {
             "domain_suffix": [
+                "huawei8.live",
+                "jianfacb.com",
+                "7yzzz.lat",
+                "ffzy-play2.com",
+                "lzcdn31.com",
+                "kimivod.com",
+                "acgrip.com",
+                "youshu.me",
+                "lzcdn23.com",
                 "cdnlz22.com",
+                "gh-proxy.com",
+                "jiansouti.com",
+                "booklink.me",
+                "gh-proxy.org",
+                "appmiu.com",
+                "ffzy-plays.com",
                 "amiao.co",
                 "ikuncode.cc",
-                "jianfacb.com",
-                "jiansouti.com",
-                "ffzy-play2.com",
-                "kimivod.com",
-                "7yzzz.lat",
-                "appmiu.com",
-                "booklink.me",
-                "ffzy-plays.com",
-                "lzcdn23.com",
-                "huawei8.live",
-                "viva-la-vita.org",
-                "acgrip.com",
-                "gh-proxy.org",
-                "lzcdn31.com",
-                "gh-proxy.com",
-                "youshu.me"
+                "viva-la-vita.org"
             ]
         }
     ]
