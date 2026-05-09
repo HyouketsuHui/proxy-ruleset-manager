@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "yyv14.qwe132456.cc",
                 "od.catimage.work",
-                "emby.enic65.eu.org",
-                "ok.1653.us.ci",
-                "emby.axuitomo.ggff.net",
-                "vip.dytt-cinema.com",
-                "okemby.wangjunqiang.indevs.in",
-                "blog.laoda.de",
                 "home.nicoioamca.cn",
-                "vip.ffzy-online1.com",
-                "okemby.wangjunqiang.dev",
-                "ok.liuerao.dpdns.org",
+                "okemby.wangjunqiang.indevs.in",
+                "emby.axuitomo.ggff.net",
                 "ok.youko.cc.cd",
-                "vip.dytt-cine.com"
+                "ok.1653.us.ci",
+                "emby.enic65.eu.org",
+                "vip.dytt-cine.com",
+                "blog.laoda.de",
+                "vip.dytt-cinema.com",
+                "vip.ffzy-online1.com",
+                "yyv14.qwe132456.cc",
+                "okemby.wangjunqiang.dev",
+                "ok.liuerao.dpdns.org"
             ]
         },
         {
             "domain_suffix": [
                 "viva-la-vita.org",
-                "youshu.me",
-                "jianfacb.com",
-                "acgrip.com",
-                "huawei8.live",
                 "jiansouti.com",
-                "kimivod.com",
-                "ffzy-plays.com",
-                "cdnlz22.com",
-                "amiao.co",
-                "lzcdn31.com",
-                "booklink.me",
+                "acgrip.com",
                 "gh-proxy.com",
+                "lzcdn31.com",
+                "jianfacb.com",
+                "youshu.me",
+                "ffzy-plays.com",
                 "ikuncode.cc",
+                "amiao.co",
+                "kimivod.com",
                 "ffzy-play2.com",
                 "lzcdn23.com",
+                "booklink.me",
                 "7yzzz.lat",
+                "gh-proxy.org",
                 "appmiu.com",
-                "gh-proxy.org"
+                "cdnlz22.com",
+                "huawei8.live"
             ]
         }
     ]
