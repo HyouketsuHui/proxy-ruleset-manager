@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "ok.youko.cc.cd",
-                "vip.ffzy-online1.com",
-                "blog.laoda.de",
-                "vip.dytt-cinema.com",
                 "vip.dytt-cine.com",
+                "blog.laoda.de",
+                "ok.youko.cc.cd",
                 "emby.enic65.eu.org",
-                "ok.liuerao.dpdns.org",
-                "emby.axuitomo.ggff.net",
-                "yyv14.qwe132456.cc",
-                "okemby.wangjunqiang.indevs.in",
-                "ok.1653.us.ci",
                 "od.catimage.work",
+                "emby.axuitomo.ggff.net",
+                "vip.dytt-cinema.com",
+                "okemby.wangjunqiang.indevs.in",
+                "okemby.wangjunqiang.dev",
+                "ok.liuerao.dpdns.org",
+                "vip.ffzy-online1.com",
+                "yyv14.qwe132456.cc",
                 "home.nicoioamca.cn",
-                "okemby.wangjunqiang.dev"
+                "ok.1653.us.ci"
             ]
         },
         {
             "domain_suffix": [
-                "ffzy-plays.com",
-                "kimivod.com",
-                "huawei8.live",
-                "viva-la-vita.org",
                 "booklink.me",
-                "ikuncode.cc",
-                "ffzy-play2.com",
-                "appmiu.com",
-                "lzcdn23.com",
-                "gh-proxy.org",
-                "acgrip.com",
-                "jianfacb.com",
-                "gh-proxy.com",
-                "amiao.co",
-                "jiansouti.com",
-                "7yzzz.lat",
-                "lzcdn31.com",
                 "cdnlz22.com",
-                "youshu.me"
+                "ffzy-plays.com",
+                "ffzy-play2.com",
+                "youshu.me",
+                "lzcdn23.com",
+                "viva-la-vita.org",
+                "appmiu.com",
+                "lzcdn31.com",
+                "amiao.co",
+                "huawei8.live",
+                "7yzzz.lat",
+                "gh-proxy.org",
+                "kimivod.com",
+                "ikuncode.cc",
+                "jiansouti.com",
+                "jianfacb.com",
+                "acgrip.com",
+                "gh-proxy.com"
             ]
         }
     ]
