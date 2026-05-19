@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "emby.axuitomo.ggff.net",
-                "vip.ffzy-online1.com",
-                "ok.youko.cc.cd",
                 "home.nicoioamca.cn",
-                "vip.dytt-cinema.com",
                 "blog.laoda.de",
+                "od.catimage.work",
+                "ok.youko.cc.cd",
+                "ok.1653.us.ci",
+                "ok.liuerao.dpdns.org",
                 "okemby.wangjunqiang.indevs.in",
                 "emby.enic65.eu.org",
-                "ok.liuerao.dpdns.org",
+                "emby.axuitomo.ggff.net",
+                "vip.ffzy-online1.com",
                 "okemby.wangjunqiang.dev",
                 "vip.dytt-cine.com",
                 "yyv14.qwe132456.cc",
-                "ok.1653.us.ci",
-                "od.catimage.work"
+                "vip.dytt-cinema.com"
             ]
         },
         {
             "domain_suffix": [
+                "ikuncode.cc",
+                "gh-proxy.org",
                 "ffzy-plays.com",
                 "kimivod.com",
-                "appmiu.com",
-                "ffzy-play2.com",
-                "youshu.me",
-                "acgrip.com",
-                "amiao.co",
-                "booklink.me",
-                "gh-proxy.org",
-                "cdnlz22.com",
-                "lzcdn31.com",
-                "7yzzz.lat",
                 "gh-proxy.com",
-                "jiansouti.com",
                 "lzcdn23.com",
-                "huawei8.live",
+                "amiao.co",
+                "7yzzz.lat",
+                "booklink.me",
+                "appmiu.com",
+                "lzcdn31.com",
                 "jianfacb.com",
+                "jiansouti.com",
+                "ffzy-play2.com",
+                "acgrip.com",
+                "cdnlz22.com",
+                "youshu.me",
                 "viva-la-vita.org",
-                "ikuncode.cc"
+                "huawei8.live"
             ]
         }
     ]
