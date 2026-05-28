@@ -1,38 +1,5 @@
-2026-05-27 08:39:51,641 - INFO - zdyproxy 规则整理完成:
-2026-05-27 08:39:51,641 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 8
-规则分析:
-  domain 条目数: 3
-  domain_suffix 条目数: 5
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-05-27 08:39:51,783 - INFO - n1download 规则整理完成:
-2026-05-27 08:39:51,783 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 3
-规则分析:
-  domain 条目数: 0
-  domain_suffix 条目数: 3
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-05-27 08:39:51,904 - INFO - lor 规则整理完成:
-2026-05-27 08:39:51,904 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 4
-规则分析:
-  domain 条目数: 0
-  domain_suffix 条目数: 4
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-05-27 08:39:51,987 - INFO - ad 规则整理完成:
-2026-05-27 08:39:51,987 - INFO - 类型: geosite
+2026-05-28 08:43:16,670 - INFO - ad 规则整理完成:
+2026-05-28 08:43:16,670 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 8
 剩余规则总数: 898
 规则分析:
@@ -42,8 +9,8 @@ domain 被过滤掉的条目数量: 8
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-05-27 08:39:52,116 - INFO - download 规则整理完成:
-2026-05-27 08:39:52,116 - INFO - 类型: geosite
+2026-05-28 08:43:16,828 - INFO - n1download 规则整理完成:
+2026-05-28 08:43:16,828 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 3
 规则分析:
@@ -53,8 +20,19 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-05-27 08:39:52,331 - INFO - zdycn 规则整理完成:
-2026-05-27 08:39:52,331 - INFO - 类型: geosite
+2026-05-28 08:43:16,971 - INFO - zdyproxy 规则整理完成:
+2026-05-28 08:43:16,972 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 8
+规则分析:
+  domain 条目数: 3
+  domain_suffix 条目数: 5
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-05-28 08:43:17,149 - INFO - zdycn 规则整理完成:
+2026-05-28 08:43:17,149 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 33
 规则分析:
@@ -64,18 +42,40 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-05-27 08:39:52,373 - INFO - 转换完成: ./rule/singbox/geosite-n1download.json → ./rule/surge/geosite-n1download.list, ./rule/shadowrocket/geosite-n1download.list
-2026-05-27 08:39:52,373 - INFO - 转换完成: ./rule/singbox/geosite-zdyproxy.json → ./rule/surge/geosite-zdyproxy.list, ./rule/shadowrocket/geosite-zdyproxy.list
-2026-05-27 08:39:52,374 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
-2026-05-27 08:39:52,374 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
-2026-05-27 08:39:52,374 - INFO - 转换完成: ./rule/singbox/geosite-lor.json → ./rule/surge/geosite-lor.list, ./rule/shadowrocket/geosite-lor.list
-2026-05-27 08:39:52,375 - INFO - 转换完成: ./rule/singbox/geosite-ad.json → ./rule/surge/geosite-ad.list, ./rule/shadowrocket/geosite-ad.list
-2026-05-27 08:39:52,396 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
-2026-05-27 08:39:52,425 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-ad.mrs
-2026-05-27 08:39:52,445 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
-2026-05-27 08:39:52,465 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-lor.mrs
-2026-05-27 08:39:52,485 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-n1download.mrs
-2026-05-27 08:39:52,505 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyporxy.mrs
-2026-05-27 08:39:52,524 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyproxy.mrs
-2026-05-27 08:39:52,537 - INFO - ✅ sing-box 配置合并成功
-2026-05-27 08:39:52,537 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
+2026-05-28 08:43:17,302 - INFO - lor 规则整理完成:
+2026-05-28 08:43:17,302 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 4
+规则分析:
+  domain 条目数: 0
+  domain_suffix 条目数: 4
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-05-28 08:43:17,512 - INFO - download 规则整理完成:
+2026-05-28 08:43:17,512 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 3
+规则分析:
+  domain 条目数: 0
+  domain_suffix 条目数: 3
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-05-28 08:43:17,556 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
+2026-05-28 08:43:17,556 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
+2026-05-28 08:43:17,557 - INFO - 转换完成: ./rule/singbox/geosite-ad.json → ./rule/surge/geosite-ad.list, ./rule/shadowrocket/geosite-ad.list
+2026-05-28 08:43:17,557 - INFO - 转换完成: ./rule/singbox/geosite-lor.json → ./rule/surge/geosite-lor.list, ./rule/shadowrocket/geosite-lor.list
+2026-05-28 08:43:17,557 - INFO - 转换完成: ./rule/singbox/geosite-zdyproxy.json → ./rule/surge/geosite-zdyproxy.list, ./rule/shadowrocket/geosite-zdyproxy.list
+2026-05-28 08:43:17,558 - INFO - 转换完成: ./rule/singbox/geosite-n1download.json → ./rule/surge/geosite-n1download.list, ./rule/shadowrocket/geosite-n1download.list
+2026-05-28 08:43:17,580 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-lor.mrs
+2026-05-28 08:43:17,602 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyporxy.mrs
+2026-05-28 08:43:17,623 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-n1download.mrs
+2026-05-28 08:43:17,644 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyproxy.mrs
+2026-05-28 08:43:17,665 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
+2026-05-28 08:43:17,687 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
+2026-05-28 08:43:17,717 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-ad.mrs
+2026-05-28 08:43:17,731 - INFO - ✅ sing-box 配置合并成功
+2026-05-28 08:43:17,731 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
