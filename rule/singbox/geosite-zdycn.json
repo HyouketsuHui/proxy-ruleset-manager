@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "vip.ffzy-online1.com",
-                "emby.axuitomo.ggff.net",
-                "od.catimage.work",
-                "ok.youko.cc.cd",
-                "emby.enic65.eu.org",
-                "okemby.wangjunqiang.indevs.in",
-                "yyv14.qwe132456.cc",
-                "home.nicoioamca.cn",
-                "vip.dytt-cine.com",
                 "okemby.wangjunqiang.dev",
-                "ok.liuerao.dpdns.org",
+                "home.nicoioamca.cn",
+                "ok.1653.us.ci",
                 "vip.dytt-cinema.com",
+                "okemby.wangjunqiang.indevs.in",
                 "blog.laoda.de",
-                "ok.1653.us.ci"
+                "emby.enic65.eu.org",
+                "emby.axuitomo.ggff.net",
+                "vip.dytt-cine.com",
+                "vip.ffzy-online1.com",
+                "yyv14.qwe132456.cc",
+                "ok.youko.cc.cd",
+                "od.catimage.work",
+                "ok.liuerao.dpdns.org"
             ]
         },
         {
             "domain_suffix": [
+                "huawei8.live",
+                "kimivod.com",
+                "amiao.co",
+                "gh-proxy.com",
+                "viva-la-vita.org",
+                "acgrip.com",
+                "booklink.me",
+                "appmiu.com",
+                "lzcdn31.com",
+                "cdnlz22.com",
+                "lzcdn23.com",
+                "ffzy-plays.com",
+                "youshu.me",
                 "ikuncode.cc",
                 "jianfacb.com",
-                "cdnlz22.com",
-                "booklink.me",
-                "7yzzz.lat",
-                "appmiu.com",
-                "acgrip.com",
-                "huawei8.live",
-                "ffzy-plays.com",
-                "viva-la-vita.org",
                 "ffzy-play2.com",
-                "lzcdn23.com",
-                "jiansouti.com",
-                "gh-proxy.com",
                 "gh-proxy.org",
-                "lzcdn31.com",
-                "kimivod.com",
-                "youshu.me",
-                "amiao.co"
+                "7yzzz.lat",
+                "jiansouti.com"
             ]
         }
     ]
