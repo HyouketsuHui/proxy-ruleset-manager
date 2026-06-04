@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "okemby.wangjunqiang.dev",
                 "home.nicoioamca.cn",
-                "ok.1653.us.ci",
-                "vip.dytt-cinema.com",
-                "okemby.wangjunqiang.indevs.in",
-                "blog.laoda.de",
                 "emby.enic65.eu.org",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.liuerao.dpdns.org",
+                "okemby.wangjunqiang.dev",
                 "emby.axuitomo.ggff.net",
                 "vip.dytt-cine.com",
-                "vip.ffzy-online1.com",
-                "yyv14.qwe132456.cc",
                 "ok.youko.cc.cd",
                 "od.catimage.work",
-                "ok.liuerao.dpdns.org"
+                "vip.dytt-cinema.com",
+                "yyv14.qwe132456.cc",
+                "blog.laoda.de",
+                "vip.ffzy-online1.com"
             ]
         },
         {
             "domain_suffix": [
-                "huawei8.live",
-                "kimivod.com",
-                "amiao.co",
-                "gh-proxy.com",
-                "viva-la-vita.org",
-                "acgrip.com",
-                "booklink.me",
-                "appmiu.com",
-                "lzcdn31.com",
-                "cdnlz22.com",
-                "lzcdn23.com",
                 "ffzy-plays.com",
                 "youshu.me",
-                "ikuncode.cc",
-                "jianfacb.com",
-                "ffzy-play2.com",
+                "cdnlz22.com",
+                "jiansouti.com",
+                "appmiu.com",
                 "gh-proxy.org",
+                "huawei8.live",
+                "ffzy-play2.com",
+                "booklink.me",
+                "lzcdn31.com",
                 "7yzzz.lat",
-                "jiansouti.com"
+                "acgrip.com",
+                "gh-proxy.com",
+                "kimivod.com",
+                "lzcdn23.com",
+                "viva-la-vita.org",
+                "jianfacb.com",
+                "ikuncode.cc",
+                "amiao.co"
             ]
         }
     ]
