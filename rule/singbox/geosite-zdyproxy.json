@@ -3,18 +3,18 @@
     "rules": [
         {
             "domain": [
-                "www.nicoioamca.cn",
                 "mf.nicoioamca.cn",
+                "www.nicoioamca.cn",
                 "fc.lyz05.cn"
             ]
         },
         {
             "domain_suffix": [
-                "oreno3d.com",
-                "zoovilleforum.net",
                 "derpibooru.org",
-                "mikanani.me",
-                "35xss.com"
+                "zoovilleforum.net",
+                "35xss.com",
+                "oreno3d.com",
+                "mikanani.me"
             ]
         }
     ]
