@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "home.nicoioamca.cn",
-                "ok.liuerao.dpdns.org",
-                "okemby.wangjunqiang.dev",
-                "emby.enic65.eu.org",
                 "vip.dytt-cinema.com",
                 "yyv14.qwe132456.cc",
-                "ok.1653.us.ci",
-                "vip.ffzy-online1.com",
-                "vip.dytt-cine.com",
-                "emby.axuitomo.ggff.net",
-                "ok.youko.cc.cd",
-                "od.catimage.work",
                 "okemby.wangjunqiang.indevs.in",
-                "blog.laoda.de"
+                "od.catimage.work",
+                "ok.1653.us.ci",
+                "vip.dytt-cine.com",
+                "home.nicoioamca.cn",
+                "blog.laoda.de",
+                "emby.enic65.eu.org",
+                "vip.ffzy-online1.com",
+                "ok.youko.cc.cd",
+                "ok.liuerao.dpdns.org",
+                "emby.axuitomo.ggff.net",
+                "okemby.wangjunqiang.dev"
             ]
         },
         {
             "domain_suffix": [
-                "kimivod.com",
-                "gh-proxy.com",
-                "lzcdn23.com",
-                "amiao.co",
-                "acgrip.com",
-                "huawei8.live",
-                "youshu.me",
-                "ffzy-play2.com",
-                "ffzy-plays.com",
-                "jiansouti.com",
-                "cdnlz22.com",
-                "jianfacb.com",
-                "lzcdn31.com",
                 "booklink.me",
                 "7yzzz.lat",
-                "viva-la-vita.org",
-                "ikuncode.cc",
+                "lzcdn23.com",
+                "kimivod.com",
+                "gh-proxy.com",
+                "lzcdn31.com",
+                "appmiu.com",
+                "cdnlz22.com",
                 "gh-proxy.org",
-                "appmiu.com"
+                "youshu.me",
+                "ikuncode.cc",
+                "ffzy-play2.com",
+                "huawei8.live",
+                "jiansouti.com",
+                "jianfacb.com",
+                "viva-la-vita.org",
+                "acgrip.com",
+                "ffzy-plays.com",
+                "amiao.co"
             ]
         }
     ]
