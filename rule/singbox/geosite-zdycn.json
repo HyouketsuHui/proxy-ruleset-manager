@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "emby.axuitomo.ggff.net",
-                "ok.liuerao.dpdns.org",
-                "home.nicoioamca.cn",
                 "emby.enic65.eu.org",
-                "okemby.wangjunqiang.dev",
+                "emby.axuitomo.ggff.net",
                 "vip.ffzy-online1.com",
-                "okemby.wangjunqiang.indevs.in",
-                "blog.laoda.de",
-                "ok.1653.us.ci",
-                "vip.dytt-cinema.com",
                 "od.catimage.work",
+                "okemby.wangjunqiang.indevs.in",
                 "ok.youko.cc.cd",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.dev",
+                "blog.laoda.de",
                 "vip.dytt-cine.com",
-                "yyv14.qwe132456.cc"
+                "yyv14.qwe132456.cc",
+                "home.nicoioamca.cn",
+                "vip.dytt-cinema.com",
+                "ok.liuerao.dpdns.org"
             ]
         },
         {
             "domain_suffix": [
+                "appmiu.com",
+                "gh-proxy.com",
+                "ffzy-plays.com",
+                "lzcdn23.com",
                 "cdnlz22.com",
-                "booklink.me",
+                "jianfacb.com",
+                "ffzy-play2.com",
+                "kimivod.com",
+                "youshu.me",
                 "lzcdn31.com",
                 "ikuncode.cc",
-                "appmiu.com",
-                "ffzy-plays.com",
-                "youshu.me",
-                "huawei8.live",
-                "lzcdn23.com",
-                "ffzy-play2.com",
-                "acgrip.com",
-                "jiansouti.com",
                 "gh-proxy.org",
-                "jianfacb.com",
+                "7yzzz.lat",
+                "huawei8.live",
                 "amiao.co",
-                "kimivod.com",
+                "jiansouti.com",
                 "viva-la-vita.org",
-                "gh-proxy.com",
-                "7yzzz.lat"
+                "booklink.me",
+                "acgrip.com"
             ]
         }
     ]
