@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "vip.dytt-cinema.com",
-                "ok.liuerao.dpdns.org",
-                "emby.axuitomo.ggff.net",
-                "home.nicoioamca.cn",
                 "okemby.wangjunqiang.indevs.in",
+                "blog.laoda.de",
                 "vip.ffzy-online1.com",
                 "emby.enic65.eu.org",
+                "ok.liuerao.dpdns.org",
+                "vip.dytt-cinema.com",
                 "yyv14.qwe132456.cc",
-                "blog.laoda.de",
-                "ok.youko.cc.cd",
+                "home.nicoioamca.cn",
                 "ok.1653.us.ci",
-                "od.catimage.work",
+                "okemby.wangjunqiang.dev",
+                "ok.youko.cc.cd",
                 "vip.dytt-cine.com",
-                "okemby.wangjunqiang.dev"
+                "od.catimage.work",
+                "emby.axuitomo.ggff.net"
             ]
         },
         {
             "domain_suffix": [
-                "lzcdn31.com",
-                "cdnlz22.com",
-                "7yzzz.lat",
-                "gh-proxy.com",
+                "acgrip.com",
+                "jiansouti.com",
                 "youshu.me",
+                "lzcdn31.com",
+                "huawei8.live",
                 "jianfacb.com",
                 "ffzy-plays.com",
                 "viva-la-vita.org",
-                "ffzy-play2.com",
-                "gh-proxy.org",
-                "huawei8.live",
-                "kimivod.com",
-                "lzcdn23.com",
-                "ikuncode.cc",
-                "acgrip.com",
-                "jiansouti.com",
                 "booklink.me",
+                "gh-proxy.com",
+                "lzcdn23.com",
+                "amiao.co",
+                "gh-proxy.org",
                 "appmiu.com",
-                "amiao.co"
+                "ikuncode.cc",
+                "7yzzz.lat",
+                "ffzy-play2.com",
+                "kimivod.com",
+                "cdnlz22.com"
             ]
         }
     ]
