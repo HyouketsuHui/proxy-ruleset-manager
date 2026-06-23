@@ -3,8 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "iwara.zip",
                 "boomio-cdn.com",
+                "iwara.zip",
                 "iwara.tv"
             ]
         }
