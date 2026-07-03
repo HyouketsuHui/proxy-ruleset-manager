@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "emby.axuitomo.ggff.net",
-                "ok.1653.us.ci",
-                "yyv14.qwe132456.cc",
-                "vip.dytt-cinema.com",
-                "ok.youko.cc.cd",
-                "home.nicoioamca.cn",
                 "od.catimage.work",
-                "okemby.wangjunqiang.indevs.in",
+                "home.nicoioamca.cn",
                 "emby.enic65.eu.org",
-                "ok.liuerao.dpdns.org",
-                "blog.laoda.de",
+                "vip.dytt-cinema.com",
+                "ok.1653.us.ci",
                 "vip.ffzy-online1.com",
+                "ok.liuerao.dpdns.org",
+                "okemby.wangjunqiang.dev",
+                "emby.axuitomo.ggff.net",
+                "okemby.wangjunqiang.indevs.in",
                 "vip.dytt-cine.com",
-                "okemby.wangjunqiang.dev"
+                "yyv14.qwe132456.cc",
+                "ok.youko.cc.cd",
+                "blog.laoda.de"
             ]
         },
         {
             "domain_suffix": [
-                "gh-proxy.org",
-                "ikuncode.cc",
-                "huawei8.live",
-                "youshu.me",
-                "lzcdn31.com",
-                "lzcdn23.com",
-                "booklink.me",
-                "ffzy-play2.com",
-                "cdnlz22.com",
-                "jiansouti.com",
-                "kimivod.com",
-                "ffzy-plays.com",
-                "gh-proxy.com",
-                "jianfacb.com",
                 "viva-la-vita.org",
+                "ikuncode.cc",
+                "7yzzz.lat",
+                "lzcdn23.com",
                 "amiao.co",
+                "jianfacb.com",
+                "ffzy-play2.com",
                 "acgrip.com",
+                "gh-proxy.com",
+                "gh-proxy.org",
+                "lzcdn31.com",
+                "youshu.me",
+                "huawei8.live",
+                "jiansouti.com",
                 "appmiu.com",
-                "7yzzz.lat"
+                "cdnlz22.com",
+                "kimivod.com",
+                "booklink.me",
+                "ffzy-plays.com"
             ]
         }
     ]
