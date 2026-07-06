@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "od.catimage.work",
-                "vip.dytt-cine.com",
                 "ok.1653.us.ci",
+                "ok.liuerao.dpdns.org",
+                "vip.ffzy-online1.com",
+                "vip.dytt-cinema.com",
+                "od.catimage.work",
                 "home.nicoioamca.cn",
                 "okemby.wangjunqiang.indevs.in",
-                "vip.ffzy-online1.com",
                 "okemby.wangjunqiang.dev",
-                "vip.dytt-cinema.com",
-                "yyv14.qwe132456.cc",
                 "emby.enic65.eu.org",
-                "ok.youko.cc.cd",
-                "ok.liuerao.dpdns.org",
                 "emby.axuitomo.ggff.net",
-                "blog.laoda.de"
+                "vip.dytt-cine.com",
+                "blog.laoda.de",
+                "ok.youko.cc.cd",
+                "yyv14.qwe132456.cc"
             ]
         },
         {
             "domain_suffix": [
-                "youshu.me",
-                "7yzzz.lat",
-                "jiansouti.com",
-                "booklink.me",
+                "viva-la-vita.org",
+                "appmiu.com",
+                "lzcdn23.com",
+                "kimivod.com",
+                "lzcdn31.com",
+                "gh-proxy.org",
                 "acgrip.com",
                 "ffzy-play2.com",
-                "lzcdn23.com",
-                "cdnlz22.com",
-                "ikuncode.cc",
-                "gh-proxy.org",
-                "huawei8.live",
-                "appmiu.com",
-                "amiao.co",
-                "gh-proxy.com",
+                "booklink.me",
                 "ffzy-plays.com",
-                "kimivod.com",
-                "viva-la-vita.org",
+                "cdnlz22.com",
+                "gh-proxy.com",
+                "amiao.co",
+                "youshu.me",
                 "jianfacb.com",
-                "lzcdn31.com"
+                "jiansouti.com",
+                "ikuncode.cc",
+                "huawei8.live",
+                "7yzzz.lat"
             ]
         }
     ]
