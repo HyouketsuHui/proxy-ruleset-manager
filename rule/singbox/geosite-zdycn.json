@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "ok.1653.us.ci",
-                "ok.liuerao.dpdns.org",
-                "vip.ffzy-online1.com",
-                "vip.dytt-cinema.com",
-                "od.catimage.work",
-                "home.nicoioamca.cn",
                 "okemby.wangjunqiang.indevs.in",
-                "okemby.wangjunqiang.dev",
-                "emby.enic65.eu.org",
-                "emby.axuitomo.ggff.net",
-                "vip.dytt-cine.com",
-                "blog.laoda.de",
                 "ok.youko.cc.cd",
-                "yyv14.qwe132456.cc"
+                "blog.laoda.de",
+                "od.catimage.work",
+                "vip.dytt-cinema.com",
+                "okemby.wangjunqiang.dev",
+                "vip.dytt-cine.com",
+                "emby.enic65.eu.org",
+                "vip.ffzy-online1.com",
+                "ok.liuerao.dpdns.org",
+                "emby.axuitomo.ggff.net",
+                "home.nicoioamca.cn",
+                "yyv14.qwe132456.cc",
+                "ok.1653.us.ci"
             ]
         },
         {
             "domain_suffix": [
-                "viva-la-vita.org",
-                "appmiu.com",
+                "huawei8.live",
+                "ikuncode.cc",
+                "ffzy-play2.com",
                 "lzcdn23.com",
-                "kimivod.com",
+                "acgrip.com",
+                "appmiu.com",
                 "lzcdn31.com",
                 "gh-proxy.org",
-                "acgrip.com",
-                "ffzy-play2.com",
-                "booklink.me",
                 "ffzy-plays.com",
-                "cdnlz22.com",
-                "gh-proxy.com",
                 "amiao.co",
+                "gh-proxy.com",
+                "7yzzz.lat",
+                "viva-la-vita.org",
                 "youshu.me",
-                "jianfacb.com",
                 "jiansouti.com",
-                "ikuncode.cc",
-                "huawei8.live",
-                "7yzzz.lat"
+                "booklink.me",
+                "cdnlz22.com",
+                "kimivod.com",
+                "jianfacb.com"
             ]
         }
     ]
