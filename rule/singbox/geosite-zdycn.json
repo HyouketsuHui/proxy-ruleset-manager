@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "yyv14.qwe132456.cc",
-                "emby.enic65.eu.org",
-                "ok.youko.cc.cd",
-                "emby.axuitomo.ggff.net",
                 "blog.laoda.de",
-                "vip.dytt-cinema.com",
-                "home.nicoioamca.cn",
                 "vip.dytt-cine.com",
-                "okemby.wangjunqiang.dev",
-                "ok.1653.us.ci",
-                "vip.ffzy-online1.com",
-                "od.catimage.work",
+                "home.nicoioamca.cn",
+                "ok.liuerao.dpdns.org",
                 "okemby.wangjunqiang.indevs.in",
-                "ok.liuerao.dpdns.org"
+                "vip.ffzy-online1.com",
+                "emby.axuitomo.ggff.net",
+                "vip.dytt-cinema.com",
+                "yyv14.qwe132456.cc",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.dev",
+                "ok.youko.cc.cd",
+                "emby.enic65.eu.org",
+                "od.catimage.work"
             ]
         },
         {
             "domain_suffix": [
-                "booklink.me",
+                "jiansouti.com",
+                "appmiu.com",
+                "youshu.me",
                 "kimivod.com",
-                "7yzzz.lat",
-                "viva-la-vita.org",
-                "cdnlz22.com",
                 "jianfacb.com",
-                "amiao.co",
+                "booklink.me",
+                "lzcdn23.com",
+                "cdnlz22.com",
+                "gh-proxy.org",
                 "acgrip.com",
                 "ikuncode.cc",
-                "ffzy-plays.com",
-                "lzcdn23.com",
-                "gh-proxy.com",
-                "huawei8.live",
-                "youshu.me",
+                "viva-la-vita.org",
                 "lzcdn31.com",
+                "huawei8.live",
+                "7yzzz.lat",
+                "ffzy-plays.com",
                 "ffzy-play2.com",
-                "jiansouti.com",
-                "gh-proxy.org",
-                "appmiu.com"
+                "gh-proxy.com",
+                "amiao.co"
             ]
         }
     ]
