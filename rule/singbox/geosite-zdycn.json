@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "blog.laoda.de",
                 "vip.dytt-cine.com",
+                "okemby.wangjunqiang.indevs.in",
+                "emby.axuitomo.ggff.net",
+                "od.catimage.work",
+                "yyv14.qwe132456.cc",
                 "home.nicoioamca.cn",
                 "ok.liuerao.dpdns.org",
-                "okemby.wangjunqiang.indevs.in",
-                "vip.ffzy-online1.com",
-                "emby.axuitomo.ggff.net",
-                "vip.dytt-cinema.com",
-                "yyv14.qwe132456.cc",
-                "ok.1653.us.ci",
-                "okemby.wangjunqiang.dev",
                 "ok.youko.cc.cd",
+                "vip.dytt-cinema.com",
+                "vip.ffzy-online1.com",
+                "okemby.wangjunqiang.dev",
                 "emby.enic65.eu.org",
-                "od.catimage.work"
+                "ok.1653.us.ci",
+                "blog.laoda.de"
             ]
         },
         {
             "domain_suffix": [
-                "jiansouti.com",
-                "appmiu.com",
-                "youshu.me",
-                "kimivod.com",
-                "jianfacb.com",
-                "booklink.me",
-                "lzcdn23.com",
-                "cdnlz22.com",
-                "gh-proxy.org",
-                "acgrip.com",
-                "ikuncode.cc",
+                "ffzy-play2.com",
                 "viva-la-vita.org",
                 "lzcdn31.com",
                 "huawei8.live",
-                "7yzzz.lat",
+                "booklink.me",
+                "appmiu.com",
+                "ikuncode.cc",
+                "gh-proxy.org",
+                "kimivod.com",
+                "lzcdn23.com",
                 "ffzy-plays.com",
-                "ffzy-play2.com",
+                "jianfacb.com",
+                "cdnlz22.com",
                 "gh-proxy.com",
-                "amiao.co"
+                "acgrip.com",
+                "amiao.co",
+                "7yzzz.lat",
+                "youshu.me",
+                "jiansouti.com"
             ]
         }
     ]
