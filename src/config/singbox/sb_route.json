@@ -61,6 +61,13 @@
         "download_detour":"下载 (海外服务)"
       },
       {
+        "tag":"geosite-webstatic",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-webstatic.srs",
+        "download_detour":"下载 (海外服务)"
+      },
+      {
         "tag":"geosite-lor",
         "type":"remote",
         "format":"binary",
