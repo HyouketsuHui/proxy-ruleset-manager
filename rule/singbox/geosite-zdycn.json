@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
+                "ok.liuerao.dpdns.org",
+                "okemby.wangjunqiang.dev",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.youko.cc.cd",
+                "home.nicoioamca.cn",
+                "emby.enic65.eu.org",
                 "od.catimage.work",
+                "blog.laoda.de",
+                "vip.dytt-cinema.com",
                 "vip.dytt-cine.com",
                 "yyv14.qwe132456.cc",
-                "ok.youko.cc.cd",
-                "vip.dytt-cinema.com",
-                "emby.axuitomo.ggff.net",
-                "emby.enic65.eu.org",
                 "ok.1653.us.ci",
-                "ok.liuerao.dpdns.org",
                 "vip.ffzy-online1.com",
-                "okemby.wangjunqiang.indevs.in",
-                "blog.laoda.de",
-                "home.nicoioamca.cn",
-                "okemby.wangjunqiang.dev"
+                "emby.axuitomo.ggff.net"
             ]
         },
         {
             "domain_suffix": [
-                "7yzzz.lat",
-                "acgrip.com",
-                "appmiu.com",
-                "ffzy-plays.com",
-                "cdnlz22.com",
-                "gh-proxy.org",
-                "lzcdn31.com",
-                "ikuncode.cc",
                 "gh-proxy.com",
-                "youshu.me",
                 "amiao.co",
-                "huawei8.live",
-                "kimivod.com",
-                "lzcdn23.com",
+                "appmiu.com",
+                "youshu.me",
+                "7yzzz.lat",
                 "viva-la-vita.org",
-                "jiansouti.com",
+                "gh-proxy.org",
                 "booklink.me",
+                "lzcdn31.com",
                 "jianfacb.com",
-                "ffzy-play2.com"
+                "ikuncode.cc",
+                "lzcdn23.com",
+                "ffzy-play2.com",
+                "cdnlz22.com",
+                "acgrip.com",
+                "ffzy-plays.com",
+                "jiansouti.com",
+                "kimivod.com",
+                "huawei8.live"
             ]
         }
     ]
