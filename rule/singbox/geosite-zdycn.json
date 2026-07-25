@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "home.nicoioamca.cn",
-                "emby.axuitomo.ggff.net",
-                "ok.liuerao.dpdns.org",
-                "okemby.wangjunqiang.dev",
-                "okemby.wangjunqiang.indevs.in",
                 "ok.1653.us.ci",
-                "vip.ffzy-online1.com",
-                "vip.dytt-cinema.com",
                 "emby.enic65.eu.org",
+                "blog.laoda.de",
+                "okemby.wangjunqiang.dev",
+                "ok.liuerao.dpdns.org",
+                "vip.dytt-cinema.com",
+                "yyv14.qwe132456.cc",
+                "od.catimage.work",
+                "emby.axuitomo.ggff.net",
+                "home.nicoioamca.cn",
+                "vip.ffzy-online1.com",
                 "ok.youko.cc.cd",
                 "vip.dytt-cine.com",
-                "yyv14.qwe132456.cc",
-                "blog.laoda.de",
-                "od.catimage.work"
+                "okemby.wangjunqiang.indevs.in"
             ]
         },
         {
             "domain_suffix": [
-                "booklink.me",
-                "jianfacb.com",
-                "ikuncode.cc",
-                "gh-proxy.com",
-                "viva-la-vita.org",
-                "lzcdn23.com",
-                "youshu.me",
-                "amiao.co",
-                "ffzy-play2.com",
-                "appmiu.com",
-                "acgrip.com",
-                "cdnlz22.com",
                 "gh-proxy.org",
-                "ffzy-plays.com",
+                "huawei8.live",
+                "cdnlz22.com",
+                "acgrip.com",
                 "kimivod.com",
+                "ikuncode.cc",
+                "ffzy-plays.com",
+                "appmiu.com",
+                "viva-la-vita.org",
+                "jianfacb.com",
+                "lzcdn31.com",
+                "lzcdn23.com",
+                "amiao.co",
                 "jiansouti.com",
                 "7yzzz.lat",
-                "lzcdn31.com",
-                "huawei8.live"
+                "youshu.me",
+                "gh-proxy.com",
+                "ffzy-play2.com",
+                "booklink.me"
             ]
         }
     ]
