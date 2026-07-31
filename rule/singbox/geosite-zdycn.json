@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "ok.liuerao.dpdns.org",
-                "od.catimage.work",
-                "ok.1653.us.ci",
-                "home.nicoioamca.cn",
                 "vip.ffzy-online1.com",
-                "okemby.wangjunqiang.indevs.in",
                 "okemby.wangjunqiang.dev",
-                "ok.youko.cc.cd",
-                "blog.laoda.de",
-                "yyv14.qwe132456.cc",
+                "okemby.wangjunqiang.indevs.in",
                 "vip.dytt-cinema.com",
+                "od.catimage.work",
+                "blog.laoda.de",
+                "home.nicoioamca.cn",
+                "emby.enic65.eu.org",
+                "ok.youko.cc.cd",
                 "emby.axuitomo.ggff.net",
-                "vip.dytt-cine.com",
-                "emby.enic65.eu.org"
+                "ok.1653.us.ci",
+                "ok.liuerao.dpdns.org",
+                "yyv14.qwe132456.cc",
+                "vip.dytt-cine.com"
             ]
         },
         {
             "domain_suffix": [
-                "lzcdn23.com",
-                "booklink.me",
-                "ikuncode.cc",
-                "viva-la-vita.org",
-                "lzcdn31.com",
                 "7yzzz.lat",
                 "jiansouti.com",
+                "kimivod.com",
+                "cdnlz22.com",
+                "huawei8.live",
+                "ffzy-play2.com",
+                "youshu.me",
+                "ffzy-plays.com",
+                "viva-la-vita.org",
+                "ikuncode.cc",
+                "jianfacb.com",
+                "booklink.me",
+                "lzcdn31.com",
                 "appmiu.com",
                 "gh-proxy.com",
-                "huawei8.live",
-                "ffzy-plays.com",
-                "cdnlz22.com",
-                "kimivod.com",
-                "youshu.me",
+                "acgrip.com",
                 "gh-proxy.org",
                 "amiao.co",
-                "jianfacb.com",
-                "ffzy-play2.com",
-                "acgrip.com"
+                "lzcdn23.com"
             ]
         }
     ]
