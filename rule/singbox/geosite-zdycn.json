@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "emby.enic65.eu.org",
-                "ok.liuerao.dpdns.org",
+                "vip.dytt-cine.com",
+                "od.catimage.work",
                 "ok.youko.cc.cd",
+                "yyv14.qwe132456.cc",
+                "okemby.wangjunqiang.dev",
+                "vip.ffzy-online1.com",
+                "blog.laoda.de",
+                "emby.enic65.eu.org",
+                "home.nicoioamca.cn",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.indevs.in",
                 "vip.dytt-cinema.com",
                 "emby.axuitomo.ggff.net",
-                "vip.dytt-cine.com",
-                "ok.1653.us.ci",
-                "okemby.wangjunqiang.dev",
-                "okemby.wangjunqiang.indevs.in",
-                "yyv14.qwe132456.cc",
-                "blog.laoda.de",
-                "od.catimage.work",
-                "home.nicoioamca.cn",
-                "vip.ffzy-online1.com"
+                "ok.liuerao.dpdns.org"
             ]
         },
         {
             "domain_suffix": [
                 "cdnlz22.com",
-                "acgrip.com",
-                "ikuncode.cc",
-                "appmiu.com",
-                "ffzy-play2.com",
-                "youshu.me",
-                "ffzy-plays.com",
-                "7yzzz.lat",
-                "kimivod.com",
                 "huawei8.live",
-                "gh-proxy.org",
+                "ikuncode.cc",
                 "viva-la-vita.org",
-                "lzcdn23.com",
                 "booklink.me",
                 "lzcdn31.com",
+                "ffzy-play2.com",
+                "acgrip.com",
                 "amiao.co",
-                "jiansouti.com",
                 "gh-proxy.com",
-                "jianfacb.com"
+                "ffzy-plays.com",
+                "7yzzz.lat",
+                "jianfacb.com",
+                "jiansouti.com",
+                "kimivod.com",
+                "youshu.me",
+                "gh-proxy.org",
+                "appmiu.com",
+                "lzcdn23.com"
             ]
         }
     ]
