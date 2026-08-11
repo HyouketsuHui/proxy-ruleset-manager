@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "vip.dytt-cine.com",
                 "od.catimage.work",
-                "ok.youko.cc.cd",
-                "yyv14.qwe132456.cc",
-                "okemby.wangjunqiang.dev",
                 "vip.ffzy-online1.com",
-                "blog.laoda.de",
-                "emby.enic65.eu.org",
-                "home.nicoioamca.cn",
-                "ok.1653.us.ci",
-                "okemby.wangjunqiang.indevs.in",
-                "vip.dytt-cinema.com",
+                "ok.liuerao.dpdns.org",
                 "emby.axuitomo.ggff.net",
-                "ok.liuerao.dpdns.org"
+                "yyv14.qwe132456.cc",
+                "blog.laoda.de",
+                "okemby.wangjunqiang.dev",
+                "home.nicoioamca.cn",
+                "vip.dytt-cine.com",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.youko.cc.cd",
+                "emby.enic65.eu.org",
+                "vip.dytt-cinema.com",
+                "ok.1653.us.ci"
             ]
         },
         {
             "domain_suffix": [
-                "cdnlz22.com",
-                "huawei8.live",
-                "ikuncode.cc",
-                "viva-la-vita.org",
+                "appmiu.com",
                 "booklink.me",
-                "lzcdn31.com",
-                "ffzy-play2.com",
+                "gh-proxy.com",
+                "kimivod.com",
+                "jiansouti.com",
                 "acgrip.com",
                 "amiao.co",
-                "gh-proxy.com",
-                "ffzy-plays.com",
-                "7yzzz.lat",
                 "jianfacb.com",
-                "jiansouti.com",
-                "kimivod.com",
+                "cdnlz22.com",
+                "lzcdn23.com",
                 "youshu.me",
                 "gh-proxy.org",
-                "appmiu.com",
-                "lzcdn23.com"
+                "viva-la-vita.org",
+                "lzcdn31.com",
+                "ffzy-plays.com",
+                "ffzy-play2.com",
+                "7yzzz.lat",
+                "ikuncode.cc",
+                "huawei8.live"
             ]
         }
     ]
