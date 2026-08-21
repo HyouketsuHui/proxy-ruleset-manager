@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "ok.liuerao.dpdns.org",
+                "ok.1653.us.ci",
                 "home.nicoioamca.cn",
+                "yyv14.qwe132456.cc",
+                "emby.axuitomo.ggff.net",
+                "ok.youko.cc.cd",
+                "okemby.wangjunqiang.dev",
+                "ok.liuerao.dpdns.org",
+                "blog.laoda.de",
                 "vip.dytt-cine.com",
                 "od.catimage.work",
-                "emby.enic65.eu.org",
-                "ok.1653.us.ci",
-                "ok.youko.cc.cd",
                 "vip.ffzy-online1.com",
-                "emby.axuitomo.ggff.net",
-                "yyv14.qwe132456.cc",
-                "okemby.wangjunqiang.indevs.in",
-                "okemby.wangjunqiang.dev",
-                "blog.laoda.de",
-                "vip.dytt-cinema.com"
+                "vip.dytt-cinema.com",
+                "emby.enic65.eu.org",
+                "okemby.wangjunqiang.indevs.in"
             ]
         },
         {
             "domain_suffix": [
-                "amiao.co",
-                "kimivod.com",
-                "ikuncode.cc",
-                "youshu.me",
-                "gh-proxy.org",
-                "gh-proxy.com",
+                "viva-la-vita.org",
                 "cdnlz22.com",
-                "ffzy-play2.com",
-                "acgrip.com",
-                "lzcdn23.com",
+                "amiao.co",
+                "lzcdn31.com",
+                "7yzzz.lat",
+                "ikuncode.cc",
+                "huawei8.live",
                 "jianfacb.com",
+                "youshu.me",
+                "gh-proxy.com",
+                "gh-proxy.org",
+                "ffzy-play2.com",
+                "ffzy-plays.com",
+                "lzcdn23.com",
                 "appmiu.com",
                 "jiansouti.com",
-                "7yzzz.lat",
-                "ffzy-plays.com",
-                "lzcdn31.com",
+                "kimivod.com",
                 "booklink.me",
-                "huawei8.live",
-                "viva-la-vita.org"
+                "acgrip.com"
             ]
         }
     ]
