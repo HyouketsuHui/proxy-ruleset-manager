@@ -3,43 +3,43 @@
     "rules": [
         {
             "domain": [
-                "od.catimage.work",
-                "blog.laoda.de",
-                "ok.1653.us.ci",
-                "home.nicoioamca.cn",
-                "okemby.wangjunqiang.indevs.in",
-                "okemby.wangjunqiang.dev",
-                "vip.ffzy-online1.com",
-                "vip.dytt-cinema.com",
-                "emby.enic65.eu.org",
-                "ok.youko.cc.cd",
-                "yyv14.qwe132456.cc",
                 "vip.dytt-cine.com",
+                "vip.dytt-cinema.com",
+                "ok.liuerao.dpdns.org",
+                "emby.enic65.eu.org",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.indevs.in",
+                "vip.ffzy-online1.com",
+                "ok.youko.cc.cd",
                 "emby.axuitomo.ggff.net",
-                "ok.liuerao.dpdns.org"
+                "yyv14.qwe132456.cc",
+                "blog.laoda.de",
+                "home.nicoioamca.cn",
+                "od.catimage.work",
+                "okemby.wangjunqiang.dev"
             ]
         },
         {
             "domain_suffix": [
-                "amiao.co",
-                "viva-la-vita.org",
-                "acgrip.com",
+                "youshu.me",
                 "lzcdn31.com",
-                "gh-proxy.org",
-                "ikuncode.cc",
-                "ffzy-plays.com",
+                "gh-proxy.com",
+                "huawei8.live",
+                "jiansouti.com",
+                "amiao.co",
+                "lzcdn23.com",
                 "kimivod.com",
+                "acgrip.com",
+                "booklink.me",
+                "cdnlz22.com",
+                "ffzy-plays.com",
+                "ikuncode.cc",
+                "appmiu.com",
                 "ffzy-play2.com",
                 "jianfacb.com",
-                "lzcdn23.com",
-                "jiansouti.com",
-                "huawei8.live",
-                "youshu.me",
-                "booklink.me",
-                "gh-proxy.com",
-                "cdnlz22.com",
-                "appmiu.com",
-                "7yzzz.lat"
+                "gh-proxy.org",
+                "7yzzz.lat",
+                "viva-la-vita.org"
             ]
         }
     ]
