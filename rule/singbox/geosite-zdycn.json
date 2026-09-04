@@ -3,42 +3,42 @@
     "rules": [
         {
             "domain": [
-                "ok.liuerao.dpdns.org",
-                "emby.enic65.eu.org",
-                "vip.dytt-cinema.com",
                 "od.catimage.work",
-                "emby.axuitomo.ggff.net",
-                "ok.1653.us.ci",
-                "yyv14.qwe132456.cc",
-                "okemby.wangjunqiang.dev",
-                "blog.laoda.de",
-                "vip.dytt-cine.com",
-                "vip.ffzy-online1.com",
+                "vip.dytt-cinema.com",
                 "home.nicoioamca.cn",
+                "emby.enic65.eu.org",
+                "blog.laoda.de",
+                "emby.axuitomo.ggff.net",
+                "okemby.wangjunqiang.dev",
+                "vip.dytt-cine.com",
                 "ok.youko.cc.cd",
-                "okemby.wangjunqiang.indevs.in"
+                "ok.1653.us.ci",
+                "vip.ffzy-online1.com",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.liuerao.dpdns.org",
+                "yyv14.qwe132456.cc"
             ]
         },
         {
             "domain_suffix": [
-                "cdnlz22.com",
-                "gh-proxy.org",
+                "huawei8.live",
                 "jianfacb.com",
                 "ffzy-play2.com",
-                "youshu.me",
-                "acgrip.com",
-                "kimivod.com",
-                "lzcdn23.com",
-                "viva-la-vita.org",
-                "jiansouti.com",
-                "appmiu.com",
-                "booklink.me",
-                "amiao.co",
-                "gh-proxy.com",
-                "ffzy-plays.com",
                 "7yzzz.lat",
+                "gh-proxy.org",
+                "kimivod.com",
+                "gh-proxy.com",
+                "amiao.co",
+                "youshu.me",
+                "appmiu.com",
+                "ffzy-plays.com",
+                "acgrip.com",
+                "booklink.me",
                 "lzcdn31.com",
-                "huawei8.live"
+                "viva-la-vita.org",
+                "lzcdn23.com",
+                "cdnlz22.com",
+                "jiansouti.com"
             ]
         }
     ]
