@@ -3,10 +3,10 @@
     "rules": [
         {
             "domain": [
+                "fc.lyz05.cn",
                 "mf.nicoioamca.cn",
                 "www.nicoioamca.cn",
-                "api.ikuncode.cc",
-                "fc.lyz05.cn"
+                "api.ikuncode.cc"
             ]
         },
         {
