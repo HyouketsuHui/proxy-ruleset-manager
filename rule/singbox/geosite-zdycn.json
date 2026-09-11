@@ -3,42 +3,42 @@
     "rules": [
         {
             "domain": [
+                "ok.liuerao.dpdns.org",
                 "emby.enic65.eu.org",
                 "ok.youko.cc.cd",
-                "blog.laoda.de",
-                "okemby.wangjunqiang.dev",
                 "emby.axuitomo.ggff.net",
-                "vip.dytt-cine.com",
-                "od.catimage.work",
-                "home.nicoioamca.cn",
                 "vip.ffzy-online1.com",
-                "yyv14.qwe132456.cc",
-                "vip.dytt-cinema.com",
-                "ok.liuerao.dpdns.org",
+                "od.catimage.work",
+                "okemby.wangjunqiang.dev",
+                "ok.1653.us.ci",
                 "okemby.wangjunqiang.indevs.in",
-                "ok.1653.us.ci"
+                "vip.dytt-cine.com",
+                "yyv14.qwe132456.cc",
+                "blog.laoda.de",
+                "vip.dytt-cinema.com",
+                "home.nicoioamca.cn"
             ]
         },
         {
             "domain_suffix": [
-                "ffzy-play2.com",
-                "viva-la-vita.org",
-                "youshu.me",
-                "lzcdn31.com",
                 "huawei8.live",
-                "amiao.co",
-                "jiansouti.com",
-                "acgrip.com",
-                "gh-proxy.org",
-                "7yzzz.lat",
-                "gh-proxy.com",
-                "kimivod.com",
-                "booklink.me",
-                "lzcdn23.com",
                 "cdnlz22.com",
+                "kimivod.com",
+                "acgrip.com",
+                "youshu.me",
+                "jiansouti.com",
+                "lzcdn31.com",
+                "ffzy-play2.com",
                 "ffzy-plays.com",
+                "gh-proxy.org",
+                "booklink.me",
+                "jianfacb.com",
+                "amiao.co",
+                "7yzzz.lat",
+                "viva-la-vita.org",
                 "appmiu.com",
-                "jianfacb.com"
+                "lzcdn23.com",
+                "gh-proxy.com"
             ]
         }
     ]
