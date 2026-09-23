@@ -1,38 +1,5 @@
-2026-09-22 09:40:31,301 - INFO - webstatic 规则整理完成:
-2026-09-22 09:40:31,301 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 1
-规则分析:
-  domain 条目数: 0
-  domain_suffix 条目数: 1
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-09-22 09:40:31,515 - INFO - zdycn 规则整理完成:
-2026-09-22 09:40:31,515 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 32
-规则分析:
-  domain 条目数: 14
-  domain_suffix 条目数: 18
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-09-22 09:40:31,915 - INFO - download 规则整理完成:
-2026-09-22 09:40:31,916 - INFO - 类型: geosite
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 3
-规则分析:
-  domain 条目数: 0
-  domain_suffix 条目数: 3
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2026-09-22 09:40:32,136 - INFO - lor 规则整理完成:
-2026-09-22 09:40:32,136 - INFO - 类型: geosite
+2026-09-23 09:47:58,267 - INFO - lor 规则整理完成:
+2026-09-23 09:47:58,268 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 4
 规则分析:
@@ -42,19 +9,19 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-09-22 09:40:32,505 - INFO - zdyproxy 规则整理完成:
-2026-09-22 09:40:32,505 - INFO - 类型: geosite
+2026-09-23 09:47:58,516 - INFO - zdycn 规则整理完成:
+2026-09-23 09:47:58,516 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
-剩余规则总数: 9
+剩余规则总数: 32
 规则分析:
-  domain 条目数: 4
-  domain_suffix 条目数: 5
+  domain 条目数: 14
+  domain_suffix 条目数: 18
   ip_cidr 条目数: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-09-22 09:40:32,833 - INFO - ad 规则整理完成:
-2026-09-22 09:40:32,833 - INFO - 类型: geosite
+2026-09-23 09:47:58,620 - INFO - ad 规则整理完成:
+2026-09-23 09:47:58,620 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 19
 剩余规则总数: 942
 规则分析:
@@ -64,8 +31,8 @@ domain 被过滤掉的条目数量: 19
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-09-22 09:40:33,190 - INFO - n1download 规则整理完成:
-2026-09-22 09:40:33,190 - INFO - 类型: geosite
+2026-09-23 09:47:58,786 - INFO - download 规则整理完成:
+2026-09-23 09:47:58,786 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 3
 规则分析:
@@ -75,20 +42,53 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2026-09-22 09:40:33,230 - INFO - 转换完成: ./rule/singbox/geosite-n1download.json → ./rule/surge/geosite-n1download.list, ./rule/shadowrocket/geosite-n1download.list
-2026-09-22 09:40:33,230 - INFO - 转换完成: ./rule/singbox/geosite-lor.json → ./rule/surge/geosite-lor.list, ./rule/shadowrocket/geosite-lor.list
-2026-09-22 09:40:33,230 - INFO - 转换完成: ./rule/singbox/geosite-zdyproxy.json → ./rule/surge/geosite-zdyproxy.list, ./rule/shadowrocket/geosite-zdyproxy.list
-2026-09-22 09:40:33,230 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
-2026-09-22 09:40:33,231 - INFO - 转换完成: ./rule/singbox/geosite-ad.json → ./rule/surge/geosite-ad.list, ./rule/shadowrocket/geosite-ad.list
-2026-09-22 09:40:33,231 - INFO - 转换完成: ./rule/singbox/geosite-webstatic.json → ./rule/surge/geosite-webstatic.list, ./rule/shadowrocket/geosite-webstatic.list
-2026-09-22 09:40:33,231 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
-2026-09-22 09:40:33,250 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyproxy.mrs
-2026-09-22 09:40:33,267 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-webstatic.mrs
-2026-09-22 09:40:33,285 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
-2026-09-22 09:40:33,310 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-ad.mrs
-2026-09-22 09:40:33,327 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyporxy.mrs
-2026-09-22 09:40:33,345 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-lor.mrs
-2026-09-22 09:40:33,363 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-n1download.mrs
-2026-09-22 09:40:33,381 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
-2026-09-22 09:40:33,391 - INFO - ✅ sing-box 配置合并成功
-2026-09-22 09:40:33,392 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
+2026-09-23 09:47:58,943 - INFO - zdyproxy 规则整理完成:
+2026-09-23 09:47:58,943 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 9
+规则分析:
+  domain 条目数: 4
+  domain_suffix 条目数: 5
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-09-23 09:47:59,053 - INFO - webstatic 规则整理完成:
+2026-09-23 09:47:59,053 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 1
+规则分析:
+  domain 条目数: 0
+  domain_suffix 条目数: 1
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-09-23 09:47:59,159 - INFO - n1download 规则整理完成:
+2026-09-23 09:47:59,159 - INFO - 类型: geosite
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 3
+规则分析:
+  domain 条目数: 0
+  domain_suffix 条目数: 3
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2026-09-23 09:47:59,205 - INFO - 转换完成: ./rule/singbox/geosite-webstatic.json → ./rule/surge/geosite-webstatic.list, ./rule/shadowrocket/geosite-webstatic.list
+2026-09-23 09:47:59,206 - INFO - 转换完成: ./rule/singbox/geosite-lor.json → ./rule/surge/geosite-lor.list, ./rule/shadowrocket/geosite-lor.list
+2026-09-23 09:47:59,206 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
+2026-09-23 09:47:59,207 - INFO - 转换完成: ./rule/singbox/geosite-zdyproxy.json → ./rule/surge/geosite-zdyproxy.list, ./rule/shadowrocket/geosite-zdyproxy.list
+2026-09-23 09:47:59,207 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
+2026-09-23 09:47:59,208 - INFO - 转换完成: ./rule/singbox/geosite-ad.json → ./rule/surge/geosite-ad.list, ./rule/shadowrocket/geosite-ad.list
+2026-09-23 09:47:59,209 - INFO - 转换完成: ./rule/singbox/geosite-n1download.json → ./rule/surge/geosite-n1download.list, ./rule/shadowrocket/geosite-n1download.list
+2026-09-23 09:47:59,234 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyporxy.mrs
+2026-09-23 09:47:59,267 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-ad.mrs
+2026-09-23 09:47:59,290 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-n1download.mrs
+2026-09-23 09:47:59,312 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdyproxy.mrs
+2026-09-23 09:47:59,335 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
+2026-09-23 09:47:59,358 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-webstatic.mrs
+2026-09-23 09:47:59,380 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-lor.mrs
+2026-09-23 09:47:59,404 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
+2026-09-23 09:47:59,417 - INFO - ✅ sing-box 配置合并成功
+2026-09-23 09:47:59,417 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
