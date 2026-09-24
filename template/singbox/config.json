@@ -385,6 +385,20 @@
       },
       {
         "type": "remote",
+        "tag": "geosite-webstatic",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-webstatic.srs",
+        "download_detour": "下载 (海外服务)"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-n1download",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-n1download.srs",
+        "download_detour": "下载 (海外服务)"
+      },
+      {
+        "type": "remote",
         "tag": "geosite-zdycn",
         "format": "binary",
         "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdycn.srs",
@@ -399,20 +413,6 @@
       },
       {
         "type": "remote",
-        "tag": "geosite-zdyproxy",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyproxy.srs",
-        "download_detour": "下载 (海外服务)"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-webstatic",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-webstatic.srs",
-        "download_detour": "下载 (海外服务)"
-      },
-      {
-        "type": "remote",
         "tag": "geosite-download",
         "format": "binary",
         "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
@@ -420,9 +420,9 @@
       },
       {
         "type": "remote",
-        "tag": "geosite-n1download",
+        "tag": "geosite-zdyproxy",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-n1download.srs",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyproxy.srs",
         "download_detour": "下载 (海外服务)"
       }
     ],
