@@ -3,42 +3,42 @@
     "rules": [
         {
             "domain": [
-                "ok.1653.us.ci",
                 "home.nicoioamca.cn",
-                "okemby.wangjunqiang.dev",
-                "ok.liuerao.dpdns.org",
-                "emby.enic65.eu.org",
-                "okemby.wangjunqiang.indevs.in",
-                "vip.dytt-cinema.com",
-                "vip.ffzy-online1.com",
-                "ok.youko.cc.cd",
-                "vip.dytt-cine.com",
-                "yyv14.qwe132456.cc",
-                "blog.laoda.de",
                 "emby.axuitomo.ggff.net",
-                "od.catimage.work"
+                "vip.ffzy-online1.com",
+                "ok.liuerao.dpdns.org",
+                "vip.dytt-cine.com",
+                "okemby.wangjunqiang.dev",
+                "emby.enic65.eu.org",
+                "ok.1653.us.ci",
+                "yyv14.qwe132456.cc",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.youko.cc.cd",
+                "od.catimage.work",
+                "blog.laoda.de",
+                "vip.dytt-cinema.com"
             ]
         },
         {
             "domain_suffix": [
-                "kimivod.com",
-                "lzcdn23.com",
-                "lzcdn31.com",
-                "booklink.me",
-                "viva-la-vita.org",
-                "appmiu.com",
-                "gh-proxy.com",
-                "youshu.me",
-                "amiao.co",
-                "jiansouti.com",
                 "acgrip.com",
-                "ffzy-plays.com",
+                "appmiu.com",
                 "cdnlz22.com",
-                "gh-proxy.org",
-                "jianfacb.com",
+                "gh-proxy.com",
+                "huawei8.live",
+                "ffzy-plays.com",
+                "lzcdn31.com",
+                "lzcdn23.com",
                 "ffzy-play2.com",
+                "youshu.me",
+                "gh-proxy.org",
+                "kimivod.com",
+                "amiao.co",
+                "booklink.me",
+                "jiansouti.com",
+                "jianfacb.com",
                 "7yzzz.lat",
-                "huawei8.live"
+                "viva-la-vita.org"
             ]
         }
     ]
