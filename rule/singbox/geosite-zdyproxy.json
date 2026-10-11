@@ -5,16 +5,16 @@
             "domain": [
                 "mf.nicoioamca.cn",
                 "www.nicoioamca.cn",
-                "api.ikuncode.cc",
-                "fc.lyz05.cn"
+                "fc.lyz05.cn",
+                "api.ikuncode.cc"
             ]
         },
         {
             "domain_suffix": [
-                "derpibooru.org",
-                "zoovilleforum.net",
                 "mikanani.me",
+                "zoovilleforum.net",
                 "oreno3d.com",
+                "derpibooru.org",
                 "35xss.com"
             ]
         }
