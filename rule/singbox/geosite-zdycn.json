@@ -3,42 +3,42 @@
     "rules": [
         {
             "domain": [
-                "vip.dytt-cinema.com",
-                "vip.dytt-cine.com",
-                "emby.enic65.eu.org",
-                "okemby.wangjunqiang.indevs.in",
-                "vip.ffzy-online1.com",
-                "emby.axuitomo.ggff.net",
                 "od.catimage.work",
-                "ok.youko.cc.cd",
                 "ok.liuerao.dpdns.org",
-                "yyv14.qwe132456.cc",
-                "blog.laoda.de",
+                "emby.enic65.eu.org",
                 "okemby.wangjunqiang.dev",
+                "okemby.wangjunqiang.indevs.in",
+                "ok.youko.cc.cd",
+                "yyv14.qwe132456.cc",
+                "vip.dytt-cine.com",
+                "vip.ffzy-online1.com",
+                "vip.dytt-cinema.com",
                 "ok.1653.us.ci",
-                "home.nicoioamca.cn"
+                "blog.laoda.de",
+                "home.nicoioamca.cn",
+                "emby.axuitomo.ggff.net"
             ]
         },
         {
             "domain_suffix": [
-                "amiao.co",
                 "gh-proxy.com",
-                "huawei8.live",
-                "ffzy-plays.com",
-                "kimivod.com",
-                "acgrip.com",
+                "cdnlz22.com",
+                "jiansouti.com",
                 "appmiu.com",
                 "jianfacb.com",
-                "viva-la-vita.org",
-                "lzcdn31.com",
-                "youshu.me",
-                "7yzzz.lat",
-                "cdnlz22.com",
-                "ffzy-play2.com",
+                "acgrip.com",
                 "gh-proxy.org",
-                "jiansouti.com",
                 "booklink.me",
-                "lzcdn23.com"
+                "huawei8.live",
+                "ffzy-plays.com",
+                "lzcdn23.com",
+                "7yzzz.lat",
+                "amiao.co",
+                "lzcdn31.com",
+                "kimivod.com",
+                "youshu.me",
+                "ffzy-play2.com",
+                "viva-la-vita.org"
             ]
         }
     ]
