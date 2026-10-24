@@ -3,42 +3,42 @@
     "rules": [
         {
             "domain": [
+                "vip.ffzy-online1.com",
+                "yyv14.qwe132456.cc",
+                "blog.laoda.de",
+                "emby.axuitomo.ggff.net",
                 "vip.dytt-cinema.com",
-                "ok.youko.cc.cd",
+                "okemby.wangjunqiang.indevs.in",
                 "vip.dytt-cine.com",
+                "ok.1653.us.ci",
+                "okemby.wangjunqiang.dev",
                 "od.catimage.work",
                 "ok.liuerao.dpdns.org",
-                "okemby.wangjunqiang.dev",
-                "home.nicoioamca.cn",
-                "ok.1653.us.ci",
-                "emby.axuitomo.ggff.net",
                 "emby.enic65.eu.org",
-                "okemby.wangjunqiang.indevs.in",
-                "vip.ffzy-online1.com",
-                "blog.laoda.de",
-                "yyv14.qwe132456.cc"
+                "home.nicoioamca.cn",
+                "ok.youko.cc.cd"
             ]
         },
         {
             "domain_suffix": [
-                "booklink.me",
-                "ffzy-plays.com",
-                "jiansouti.com",
-                "jianfacb.com",
-                "lzcdn23.com",
                 "7yzzz.lat",
-                "gh-proxy.org",
-                "appmiu.com",
-                "viva-la-vita.org",
-                "cdnlz22.com",
-                "ffzy-play2.com",
-                "gh-proxy.com",
-                "lzcdn31.com",
                 "youshu.me",
+                "booklink.me",
+                "acgrip.com",
+                "cdnlz22.com",
+                "jiansouti.com",
+                "appmiu.com",
+                "lzcdn23.com",
+                "jianfacb.com",
                 "kimivod.com",
+                "ffzy-play2.com",
+                "gh-proxy.org",
+                "lzcdn31.com",
+                "gh-proxy.com",
+                "ffzy-plays.com",
+                "viva-la-vita.org",
                 "huawei8.live",
-                "amiao.co",
-                "acgrip.com"
+                "amiao.co"
             ]
         }
     ]
