@@ -3,42 +3,44 @@
     "rules": [
         {
             "domain": [
-                "yyv14.qwe132456.cc",
-                "vip.ffzy-online1.com",
-                "blog.laoda.de",
-                "vip.dytt-cine.com",
-                "ok.1653.us.ci",
-                "okemby.wangjunqiang.dev",
                 "ok.youko.cc.cd",
-                "od.catimage.work",
-                "home.nicoioamca.cn",
-                "okemby.wangjunqiang.indevs.in",
-                "emby.enic65.eu.org",
                 "ok.liuerao.dpdns.org",
+                "od.catimage.work",
+                "emby.axuitomo.ggff.net",
+                "code1.newcli.com",
+                "blog.laoda.de",
                 "vip.dytt-cinema.com",
-                "emby.axuitomo.ggff.net"
+                "okemby.wangjunqiang.indevs.in",
+                "okemby.wangjunqiang.dev",
+                "vip.ffzy-online1.com",
+                "yyv14.qwe132456.cc",
+                "emby.enic65.eu.org",
+                "api.ikuncode.ai",
+                "home.nicoioamca.cn",
+                "vip.dytt-cine.com",
+                "ok.1653.us.ci"
             ]
         },
         {
             "domain_suffix": [
                 "ffzy-play2.com",
+                "acgrip.com",
                 "7yzzz.lat",
-                "appmiu.com",
+                "booklink.me",
+                "jiansouti.com",
+                "youshu.me",
+                "cdnlz22.com",
+                "huawei8.live",
+                "ffzy-plays.com",
+                "jianfacb.com",
                 "amiao.co",
+                "lzcdn23.com",
+                "gh-proxy.com",
                 "gh-proxy.org",
                 "viva-la-vita.org",
-                "lzcdn23.com",
-                "booklink.me",
-                "kimivod.com",
-                "ffzy-plays.com",
                 "lzcdn31.com",
-                "acgrip.com",
-                "gh-proxy.com",
-                "youshu.me",
-                "huawei8.live",
-                "cdnlz22.com",
-                "jiansouti.com",
-                "jianfacb.com"
+                "appmiu.com",
+                "kimivod.com"
             ]
         }
     ]
